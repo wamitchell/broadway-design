@@ -18,7 +18,7 @@ nav {
 }
 
 #top {
-    background-image: url(the-flatiron-building.png);
+    background-image: url(/resources/the-flatiron-building.png);
     background-color: aquamarine;
 }
 
@@ -37,7 +37,7 @@ p {
 #nyc {
     color: white;
     font-size: 23px;
-    background-image: url(the-flatiron-building.png);
+    background-image: url(/resources/the-flatiron-building.png);
     background-color: aquamarine;
 }
 
